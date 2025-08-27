@@ -1,7 +1,7 @@
 # John Parks
 
-📞 **Phone:** 513-720-0058  
-📧 **Email:** parksjh@mail.uc.edu
+**Phone:** 513-720-0058  
+**Email:** parksjh@mail.uc.edu
 
 ---
 
