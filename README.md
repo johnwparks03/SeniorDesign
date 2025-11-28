@@ -9,7 +9,7 @@ Advisor: Dr. Boyang Wang
 
 ### Project Description
 
-This project will focus on developing new static methods to detect hardware vulnerabilities in RTL designs written in Verilog or VHDL. The goal of this project aims to enhance the security of hardware design early during the design stage.
+This project will focus on developing new static methods to detect hardware vulnerabilities in RTL designs written in Verilog, SystemVerilog, or VHDL. The goal of this project aims to enhance the security of hardware design early during the design stage.
 
 ### User Stories and Design Diagrams
 
