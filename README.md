@@ -21,7 +21,7 @@ This project will focus on developing new static methods to detect hardware vuln
 ### Project Tasks and Timeline
 
 [Tasklist](https://github.com/johnwparks03/SeniorDesign/blob/main/Senior_Design_Deliverables/Tasklist.md)  
-[Timeline and Effort Matrix](https://github.com/johnwparks03/SeniorDesign/blob/main/Senior_Design_Deliverables/Timeline_and_Effort_Matrix.pdf)
+[Timeline and Effort Matrix](https://github.com/johnwparks03/SeniorDesign/blob/main/Senior_Design_Deliverables/Milestones.pdf)
 
 ### ABET Concerns
 
