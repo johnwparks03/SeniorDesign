@@ -1,4 +1,4 @@
-# DetectRTL
+# PickyRTL
 
 ## University of Cincinnati Senior Design Requirements
 
